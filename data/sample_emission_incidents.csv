@@ -1,0 +1,61 @@
+incident_id,site_id,date,incident_type,severity,resolved
+INC-5001,CG-2001,2026-01-01,Visible plume concern,Low,False
+INC-5002,CG-2002,2026-02-02,Equipment alert,Moderate,True
+INC-5003,CG-2003,2026-03-03,Filter maintenance,High,True
+INC-5004,CG-2004,2026-04-04,Stack observation,Low,True
+INC-5005,CG-2005,2026-05-05,Operational interruption,Moderate,True
+INC-5006,CG-2006,2026-06-06,Inspection finding,High,True
+INC-5007,CG-2007,2026-07-07,Visible plume concern,Low,False
+INC-5008,CG-2008,2026-08-08,Equipment alert,Moderate,True
+INC-5009,CG-2009,2026-09-09,Filter maintenance,High,True
+INC-5010,CG-2010,2026-01-10,Stack observation,Low,True
+INC-5011,CG-2011,2026-02-11,Operational interruption,Moderate,True
+INC-5012,CG-2012,2026-03-12,Inspection finding,High,True
+INC-5013,CG-2013,2026-04-13,Visible plume concern,Low,False
+INC-5014,CG-2014,2026-05-14,Equipment alert,Moderate,True
+INC-5015,CG-2015,2026-06-15,Filter maintenance,High,True
+INC-5016,CG-2016,2026-07-16,Stack observation,Low,True
+INC-5017,CG-2017,2026-08-17,Operational interruption,Moderate,True
+INC-5018,CG-2018,2026-09-18,Inspection finding,High,True
+INC-5019,CG-2019,2026-01-19,Visible plume concern,Low,False
+INC-5020,CG-2020,2026-02-20,Equipment alert,Moderate,True
+INC-5021,CG-2021,2026-03-21,Filter maintenance,High,True
+INC-5022,CG-2022,2026-04-22,Stack observation,Low,True
+INC-5023,CG-2023,2026-05-23,Operational interruption,Moderate,True
+INC-5024,CG-2024,2026-06-24,Inspection finding,High,True
+INC-5025,CG-2001,2026-07-25,Visible plume concern,Low,False
+INC-5026,CG-2002,2026-08-26,Equipment alert,Moderate,True
+INC-5027,CG-2003,2026-09-27,Filter maintenance,High,True
+INC-5028,CG-2004,2026-01-01,Stack observation,Low,True
+INC-5029,CG-2005,2026-02-02,Operational interruption,Moderate,True
+INC-5030,CG-2006,2026-03-03,Inspection finding,High,True
+INC-5031,CG-2007,2026-04-04,Visible plume concern,Low,False
+INC-5032,CG-2008,2026-05-05,Equipment alert,Moderate,True
+INC-5033,CG-2009,2026-06-06,Filter maintenance,High,True
+INC-5034,CG-2010,2026-07-07,Stack observation,Low,True
+INC-5035,CG-2011,2026-08-08,Operational interruption,Moderate,True
+INC-5036,CG-2012,2026-09-09,Inspection finding,High,True
+INC-5037,CG-2013,2026-01-10,Visible plume concern,Low,False
+INC-5038,CG-2014,2026-02-11,Equipment alert,Moderate,True
+INC-5039,CG-2015,2026-03-12,Filter maintenance,High,True
+INC-5040,CG-2016,2026-04-13,Stack observation,Low,True
+INC-5041,CG-2017,2026-05-14,Operational interruption,Moderate,True
+INC-5042,CG-2018,2026-06-15,Inspection finding,High,True
+INC-5043,CG-2019,2026-07-16,Visible plume concern,Low,False
+INC-5044,CG-2020,2026-08-17,Equipment alert,Moderate,True
+INC-5045,CG-2021,2026-09-18,Filter maintenance,High,True
+INC-5046,CG-2022,2026-01-19,Stack observation,Low,True
+INC-5047,CG-2023,2026-02-20,Operational interruption,Moderate,True
+INC-5048,CG-2024,2026-03-21,Inspection finding,High,True
+INC-5049,CG-2001,2026-04-22,Visible plume concern,Low,False
+INC-5050,CG-2002,2026-05-23,Equipment alert,Moderate,True
+INC-5051,CG-2003,2026-06-24,Filter maintenance,High,True
+INC-5052,CG-2004,2026-07-25,Stack observation,Low,True
+INC-5053,CG-2005,2026-08-26,Operational interruption,Moderate,True
+INC-5054,CG-2006,2026-09-27,Inspection finding,High,True
+INC-5055,CG-2007,2026-01-01,Visible plume concern,Low,False
+INC-5056,CG-2008,2026-02-02,Equipment alert,Moderate,True
+INC-5057,CG-2009,2026-03-03,Filter maintenance,High,True
+INC-5058,CG-2010,2026-04-04,Stack observation,Low,True
+INC-5059,CG-2011,2026-05-05,Operational interruption,Moderate,True
+INC-5060,CG-2012,2026-06-06,Inspection finding,High,True

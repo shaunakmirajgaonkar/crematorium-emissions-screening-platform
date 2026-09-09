@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220">
+<rect width="920" height="220" rx="42" fill="#FFF5EA"/>
+<circle cx="108" cy="110" r="67" fill="#EB7B2E"/>
+<path d="M111 54c18 28 2 38 23 59 15 15 14 35 0 50-25 27-78 10-78-29 0-24 20-37 34-52 9-10 12-20 21-28z" fill="white"/>
+<path d="M120 103c10 15 6 23 15 30 8 7 7 19 0 27-13 14-36 7-36-12 0-13 10-18 16-27 4-6 4-11 5-18z" fill="#EB7B2E"/>
+<rect x="205" y="57" width="2" height="106" fill="#DDE7EE"/>
+<text x="240" y="106" font-family="Arial" font-size="50" font-weight="700" fill="#182B3A">EmberGuard</text>
+<text x="243" y="145" font-family="Arial" font-size="20" fill="#637789">Crematorium emissions screening platform</text>
+</svg>
